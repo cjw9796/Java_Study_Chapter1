@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\BookMarketTest"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day12"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day11"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day15"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day15_practice"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day14"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\BookMarket (2)"/>
+			<item value="C:\Users\jungwookchoi\Desktop\teacher\Day13\Day13_teacher"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day13"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\BookMarketset2"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\BookMarket"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\BookMarketSwing"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day10"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day9"/>
+			<item value="C:\Users\jungwookchoi\Desktop\teacher\Day8\Day8_teacher"/>
+			<item value="C:\Users\jungwookchoi\Desktop\teacher\Day7\Day7_teacher"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day8"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day7"/>
+			<item value="C:\Users\jungwookchoi\Desktop\teacher\Day6\Day6_teacher"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day6"/>
+			<item value="C:\Users\jungwookchoi\Desktop\teacher\Day5\Day5_teacher"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day5"/>
+			<item value="C:\Users\jungwookchoi\Desktop\teacher\Day4\Day4_teacher"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day4"/>
+			<item value="C:\Users\jungwookchoi\Desktop\teacher\Day3\Day3_teacher"/>
+			<item value="C:\Users\jungwookchoi\Desktop\teacher\Day2\Day2_teacher"/>
+			<item value="C:\Users\jungwookchoi\Desktop\teacher\Day2_teacher"/>
+			<item value="C:\Users\jungwookchoi\Desktop\teacher\Day1\Day1_teacher"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day2_teacher"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day1_teacher"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day1jw (2)"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day1jw"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day2_t\Day2_t"/>
+			<item value="C:\Users\jungwookchoi\Desktop\teacherfile\teacherfile\Day2_t\Day2_t"/>
+			<item value="C:\Users\jungwookchoi\Desktop\teacherfile\teacherfile\Day1_t"/>
+			<item value="C:\Users\jungwookchoi\Desktop\수업파일 백업\강사님 파일\Day1_t"/>
+			<item value="C:\Users\jungwookchoi\Desktop\수업파일 백업\강사님 파일\Day2_teacher\Day2_teacher"/>
+			<item value="C:\Users\jungwookchoi\Desktop\수업파일 백업\강사님 파일\Day1_teacher"/>
+			<item value="C:\Users\jungwookchoi\Desktop\강사님 파일\Day3_teacher"/>
+			<item value="C:\Users\jungwookchoi\Desktop\강사님 파일\Day1_teacher"/>
+			<item value="C:\Users\jungwookchoi\Desktop\강사님 파일\Day2_teacher"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day3"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day2"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day1"/>
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day1_t"/>
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\jungwookchoi\Desktop\java_jungwook\java_src\Day1_teacher"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>
